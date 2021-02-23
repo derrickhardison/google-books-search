@@ -9,16 +9,16 @@ const BookSearch = () => {
           {/* <h6>Book</h6> */}
           <div className="row">
             {/* <div className="col"> */}
-            <div class="mb-3">
-              <label for="exampleInputEmail1" class="form-label">
+            <div className="mb-3">
+              <label for="exampleInputEmail1" className="form-label">
                 Book
               </label>
-              <input type="text" class="form-control" id="" />
+              <input type="text" className="form-control" id="" />
             </div>
             {/* </div> */}
             <div className="row">
               <div className="col">
-                <button type="button" class="btn btn-primary float-end">
+                <button type="button" className="btn btn-primary float-end">
                   Primary
                 </button>
               </div>
